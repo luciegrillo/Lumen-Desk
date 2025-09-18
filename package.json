@@ -1,0 +1,24 @@
+{
+  "name": "lumen-desk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luciegrillo/Lumen-Desk.git"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luciegrillo/Lumen-Desk/issues"
+  },
+  "homepage": "https://github.com/luciegrillo/Lumen-Desk#readme"
+}
